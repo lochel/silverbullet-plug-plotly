@@ -1,0 +1,5 @@
+name: plotly
+functions:
+  plotly:
+    path: plotly.ts:plotly
+    codeWidget: plotly
